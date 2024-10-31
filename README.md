@@ -28,7 +28,7 @@ Find more projects [here](link_to_github_repos) or in the pinned section below!
 
 ## 📫 Connect with Me
 
-Feel free to reach out or connect with me on LinkedIn, Twitter, or through my [personal website](your_website).
+Feel free to reach out or connect with me on LinkedIn.
 
 Thanks for visiting my profile! 🚀
 
