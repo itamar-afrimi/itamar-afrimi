@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=itamar-afrimi&show_icons=true&theme=default)
 
 Welcome to my GitHub profile! I'm a software engineer with a passion for machine learning, data science, and back-end development. I love building projects that solve real-world problems and continuously exploring new technologies.
 
