@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Afrimi Itamar
 
 Welcome to my GitHub profile! I'm a software engineer with a passion for machine learning, data science, and back-end development. I love building projects that solve real-world problems and continuously exploring new technologies.
 
