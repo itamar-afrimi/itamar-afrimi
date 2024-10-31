@@ -1,9 +1,5 @@
 # Hi there! 👋 I'm Afrimi Itamar
 
-![Python](https://img.shields.io/badge/Python-blue)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=itamar-afrimi&show_icons=true&theme=default)
-
 Welcome to my GitHub profile! I'm a software engineer with a passion for machine learning, data science, and back-end development. I love building projects that solve real-world problems and continuously exploring new technologies.
 
 
@@ -38,3 +34,6 @@ Thanks for visiting my profile! 🚀
 
 ---
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
